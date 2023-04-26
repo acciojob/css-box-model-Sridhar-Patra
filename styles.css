@@ -1,11 +1,10 @@
 
 /* Your CSS Code here. */
 div{
-	content:This is a demo of box model, try to replicate this box model in Html & Css and pass all the test cases.;
-	width:300px;
-	
-	padding:50px ;
-	background-color:lightblue;
-	border:15px solid blue;
-	margin:20px;
+	content: This is a demo of box model, try to replicate this box model in Html & Css and pass all the test cases.;
+    width: 300px;
+    padding: 50px;
+    background-color: lightblue;
+    border: 15px solid blue;
+    margin: 20px;
 }
